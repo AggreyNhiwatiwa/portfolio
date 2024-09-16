@@ -6,12 +6,9 @@ This is a project that I am actively developing as a minimum viable product for 
 
 Two versions are being devloped, a cross platform version built with React Native, and a Progressive Web Application (PWA) version.
 
+Feel free to check out some screenshots below!
+
 ## React Native Version ⚛
-
-
-Here are a few screenshots of my app!
-
-### Main items screen
 
 <img width="400" alt="Users" src="https://github.com/user-attachments/assets/f2398d27-9b56-498f-b5a2-b45b4b96dbab">
 
