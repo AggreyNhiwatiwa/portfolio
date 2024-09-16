@@ -36,10 +36,5 @@ This was a group project for a recent UI/UX design course at college. This app c
 Feel free to try it out here (May need a refresh if it does not load properly the first time): https://www.figma.com/proto/GfMMzmGvD2O18r7sQchtGD/UI%2FUX-Project-check-in-4-prototype?node-id=59-662&t=BePr2gnJKuaHegXY-1&starting-point-node-id=2091%3A1788
 
 * In this project, the UX design process was followed, which included research, analysis, design, prototyping and user testing.
-
 * We started off with low fidelity wireframes and eventually ending up with a functional prototype.
-
 * All design work was completed using Figma.
-
-  
-
