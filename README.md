@@ -13,17 +13,17 @@ Here are a few screenshots of my app!
 
 ### Main items screen
 
-<img width="484" alt="Users" src="https://github.com/user-attachments/assets/f2398d27-9b56-498f-b5a2-b45b4b96dbab">
+<img width="400" alt="Users" src="https://github.com/user-attachments/assets/f2398d27-9b56-498f-b5a2-b45b4b96dbab">
 
-<img width="484" alt="Vehicles" src="https://github.com/user-attachments/assets/4daa0b8b-d97f-41bf-a331-54dd27de1424">
+<img width="400" alt="Vehicles" src="https://github.com/user-attachments/assets/4daa0b8b-d97f-41bf-a331-54dd27de1424">
 
-<img width="484" alt="Bookings" src="https://github.com/user-attachments/assets/a6188ccb-ac6d-4ea7-bda9-6e13445c535c">
+<img width="400" alt="Bookings" src="https://github.com/user-attachments/assets/a6188ccb-ac6d-4ea7-bda9-6e13445c535c">
 
-<img width="484" alt="Charger Details" src="https://github.com/user-attachments/assets/25d73e70-3738-47b5-84bb-8a5555f3aeeb">
+<img width="400" alt="Charger Details" src="https://github.com/user-attachments/assets/25d73e70-3738-47b5-84bb-8a5555f3aeeb">
 
-<img width="484" alt="Add User" src="https://github.com/user-attachments/assets/d8212ab4-23fb-4614-a136-9cecb0917f05">
+<img width="400" alt="Add User" src="https://github.com/user-attachments/assets/d8212ab4-23fb-4614-a136-9cecb0917f05">
 
-<img width="484" alt="Edit Charger" src="https://github.com/user-attachments/assets/3c139d32-dea8-405f-b4bf-878e014e6af8">
+<img width="400" alt="Edit Charger" src="https://github.com/user-attachments/assets/3c139d32-dea8-405f-b4bf-878e014e6af8">
 
 ### Details
 * Languages: Vanilla JS, JSX
