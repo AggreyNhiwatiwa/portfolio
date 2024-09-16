@@ -1,4 +1,5 @@
 <img width="1834" alt="Github portfolio header new" src="https://github.com/user-attachments/assets/06d28a14-6a45-4f14-87c5-282e656475f5">
+
 # Electric Vehicle Charger Admin Centre 🔋
 
 This is a project that I am actively developing as a minimum viable product for a Fortune 500 company (internal tool). The purpose of this is to manage customers and employees who own electric vehicles and would like to use the on premises electric vehicle chargers. Users, vehicles and chargers can all be registered and bookings can be made using these entities. 
