@@ -1,4 +1,4 @@
-<img width="1834" alt="Github portfolio header white" src="https://github.com/user-attachments/assets/112eb576-d135-4864-996a-ad963f0807f9">
+<img width="1834" alt="Github portfolio header white" src="https://github.com/user-attachments/assets/d29daa60-58b2-43d8-a035-c823c5155dcc">
 
 # Electric Vehicle Charger Admin Centre 🔋
 
@@ -25,9 +25,6 @@ Here are a few screenshots of my app!
 
 <img width="484" alt="Edit Charger" src="https://github.com/user-attachments/assets/3c139d32-dea8-405f-b4bf-878e014e6af8">
 
-
-
-
 ### Details
 * Languages: Vanilla JS, JSX
 * Frameworks: React Native Expo
@@ -35,20 +32,17 @@ Here are a few screenshots of my app!
 * Other: The React Context API was used to avoid excessive prop drilling in my deep nested component hierarchy
 
 
+## NookBook 📚
 
+This was a group project for a recent UI/UX design course at college. This app concept is a companion app based on the game Animal Crossing: New Horizons.
 
+Feel free to try it out here (May need a refresh if it does not load properly the first time): https://www.figma.com/proto/GfMMzmGvD2O18r7sQchtGD/UI%2FUX-Project-check-in-4-prototype?node-id=59-662&t=BePr2gnJKuaHegXY-1&starting-point-node-id=2091%3A1788
 
-## PWA Version
+* In this project, the UX design process was followed, which included research, analysis, design, prototyping and user testing.
 
+* We started off with low fidelity wireframes and eventually ending up with a functional prototype.
 
+* All design work was completed using Figma.
 
+  
 
-
-
-
-
-
-
-Proposed upcoming changes for both versions:
-Firebase authentication.
-Depending on the proposed features I could migrate from using the Context API to Redux.
