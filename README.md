@@ -38,3 +38,7 @@ Feel free to try it out here (May need a refresh if it does not load properly th
 * In this project, the UX design process was followed, which included research, analysis, design, prototyping and user testing.
 * We started off with low fidelity wireframes and eventually ending up with a functional prototype.
 * All design work was completed using Figma.
+
+# Attributions
+
+* Header template: https://www.figma.com/community/file/1283803700919249060
