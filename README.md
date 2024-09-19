@@ -31,7 +31,7 @@ Feel free to check out some screenshots below!
 
 # iOS - Weather app
 
-A simple iOS weather app made in collaboration with @livioDR, made using Swift, using the Weather API (https://www.weatherapi.com/)
+A simple iOS weather app made in collaboration with https://www.github.com/liviodr , made using Swift, using the Weather API (https://www.weatherapi.com/)
 The app allows a user to search for a location or use their own location to receive the matching data from the API
 
 The app allows a user to switch between using Celsius and Fahrenheit for both the home screen and their listed locations
