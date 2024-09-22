@@ -5,7 +5,6 @@
 <br>*Note: A refresh may be required if it does not initially load correctly*
 
 ## Description
-
 This was a solo project, based on a template provided, which contained the structure of the app without any actionability or content such as: imagery, specific fonts or images.
 <br>The purpose of this project was to decide on implementing a style guide and its associated components, as well as creating a prototype in actionability.
 Each movie is prevented with an overlay / modal, where pressing outside the overlay will close it 
@@ -71,7 +70,14 @@ Created with the [Color Blind Figma plugin](https://www.figma.com/community/plug
 
 ### Imagery
 
-### Movie Images
+#### Non-movie Specific Images
+* [Login page icon](https://www.flaticon.com/free-icon/watching-a-movie_4221484?term=movie&related_id=4221484)
+* [Cinema seats](https://www.auditoria-services.com/wp-content/uploads/2016/11/The-Ultimate-1-1000x563.jpg)
+* [Popcorn](https://www.recipetineats.com/uploads/2018/08/Movie-Popcorn_1.jpg)
+* [Clapperboard](https://www.magnoliprops.com/images/extra_images/original/extra-image-1596.jpg)
+* [Roll of film](https://upload.wikimedia.org/wikipedia/commons/0/02/35mm_movie_negative.jpg)
+
+#### Movie Images
 * [John Wick: Chapter 4](https://m.media-amazon.com/images/M/MV5BZWVmYzI0YmQtZTA5Yi00MDg0LTg1Y2ItMmE3MmRkNDFkMWVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg)
 * [Shrek 2](https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg)
 * [The Descent](https://m.media-amazon.com/images/M/MV5BMTM3NTczNDM5M15BMl5BanBnXkFtZTcwMjgwMzUzMw@@._V1_.jpg)
@@ -85,6 +91,16 @@ Created with the [Color Blind Figma plugin](https://www.figma.com/community/plug
 * [Black Panther](https://miro.medium.com/v2/resize:fit:1000/1*ExCER7Jp6Cd16-3MpFYkDQ.jpeg)
 * [Superbad](https://media.vanityfair.com/photos/62fa88ecd703349a746d4ea2/1:1/w_1333,h_1333,c_limit/vf-822-superbad-making-of-005.jpg)
 
-
-### Movie Descriptions
-
+#### Movie Descriptions
+* [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/)
+* [Shrek 2](https://www.imdb.com/title/tt0298148/)
+* [The Descent](https://www.imdb.com/title/tt0435625/)
+* [Sharknado](https://www.imdb.com/title/tt2724064/)
+* [The Great Gatsby](https://www.imdb.com/title/tt1343092/)
+* [The Fast and the Furious: Tokyo Drift](https://www.imdb.com/title/tt0463985/)
+* [Prometheus](https://www.imdb.com/title/tt1446714/)
+* [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/)
+* [Home Alone](https://www.imdb.com/title/tt0099785/)
+* [Finding Nemo](https://www.imdb.com/title/tt0266543/)
+* [Black Panther](https://www.imdb.com/title/tt1825683/)
+* [Superbad](https://www.imdb.com/title/tt0829482/)
