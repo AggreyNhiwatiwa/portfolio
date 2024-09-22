@@ -20,5 +20,5 @@ Here are just a few screenshots to provide an overview of my work, feel free to 
 * [Movie App 🍿](/project-docs/doc-figma-movie.md) : A UI/UX solo project made in Figma
 
 ## Attributions
-* Header template: https://www.figma.com/community/file/1283803700919249060
+* [README Github Banner by Elizaveta](https://www.figma.com/community/file/1206877665795271691/readme-github-banner)
 
