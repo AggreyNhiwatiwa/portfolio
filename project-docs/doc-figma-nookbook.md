@@ -12,25 +12,34 @@ This app concept is a fictional companion app based on the game Animal Crossing:
 The work in Figma consisted of the following:
 
 * User personas
+* User scenario map
+* User storyboard
 * User flows
-* Medium fidelity wireframes
 * Mood board and style guide
+* Medium fidelity wireframes
 * High fidelity functional prototype
+
+## User Personas
+![User Personas](https://github.com/user-attachments/assets/f91d0ba6-6ef9-4fe1-bbd2-6e9136c8499f)
+
+## User Scenario Map
+![nb-scenario-map](https://github.com/user-attachments/assets/cb9345ac-6b0c-4f10-94a7-f7c5a1b9fd6f)
+
+
+## User Storyboard
+![nb-user-storyboard](https://github.com/user-attachments/assets/fbcf1d02-1d16-449b-9570-9a30d0e9833b)
+
 
 ## Mood Board and Style Guide
 ![nb-moodboard and style guide](https://github.com/user-attachments/assets/58ad8e44-cb5c-463b-91d1-87692496ce52)
 
-
 ## Medium-fidelity Wireframes
-
 ![nookbook-wireframes](https://github.com/user-attachments/assets/6fc98627-3109-4eb6-91fd-84125cda92cd)
 
 ## High-fidelity Prototype Design Work
-
 ![Figma prototype work](https://github.com/user-attachments/assets/2e820cbb-9bf2-40de-a84f-104af37be9c3)
 
 ## Prototype Screenshots
-
 ![nb-collections](https://github.com/user-attachments/assets/6974a779-8265-4f98-9017-7a648a421e22)
 
 ![nb-shop-home](https://github.com/user-attachments/assets/6af8b385-f5a8-4493-aa22-cf159299b4f7)
