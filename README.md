@@ -13,11 +13,12 @@ Here are just a few screenshots to provide an overview of my work, feel free to 
 * [EV Admin 🔋](/project-docs/doc-rn-evadmin.md) : An electric vehicle charger booking app made for a real-world client (in progress)
 
 ## iOS 🍎
-* [Weather App 🌦️](/project-docs/doc-ios-weather.md) : A weather app made in collaboration with https://www.github.com/liviodr using a Weather API
+* [Weather App 🌦️](/project-docs/doc-ios-weather.md) : A weather app made in collaboration with https://www.github.com/liviodr using a [Weather API]( https://www.weatherapi.com/)
 
 ## Figma 🎨
 * [NookBook 📚](/project-docs/doc-figma-nookbook.md) : A UI/UX group project made in Figma
+* [Movie App 🍿](/project-docs/doc-figma-movie.md) : A UI/UX solo project made in Figma
 
 ## Attributions
 * Header template: https://www.figma.com/community/file/1283803700919249060
-* Weather API used in Weather iOS app: https://www.weatherapi.com/
+
