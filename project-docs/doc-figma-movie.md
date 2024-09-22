@@ -66,11 +66,24 @@ Created with the [Color Blind Figma plugin](https://www.figma.com/community/plug
 ## Attributions
 
 ### Tools
-
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) by WebAIM
 * [Color Blind Figma plugin](https://www.figma.com/community/plugin/733343906244951586/color-blind) by Sam Mason de Caires
 
 ### Imagery
+
+### Movie Images
+* [John Wick: Chapter 4](https://m.media-amazon.com/images/M/MV5BZWVmYzI0YmQtZTA5Yi00MDg0LTg1Y2ItMmE3MmRkNDFkMWVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg)
+* [Shrek 2](https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg)
+* [The Descent](https://m.media-amazon.com/images/M/MV5BMTM3NTczNDM5M15BMl5BanBnXkFtZTcwMjgwMzUzMw@@._V1_.jpg)
+* [Sharknado](https://resizing.flixster.com/VPHKBxap0DSgr8D3bQvqKuDc3sA=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9996687_k_h9_ab.jpg)
+* [The Great Gatsby](https://i.kym-cdn.com/entries/icons/facebook/000/023/077/Leo_Toasting_meme_banner.jpg)
+* [The Fast and the Furious: Tokyo Drift](https://media.tacdn.com/media/attractions-splice-spp-674x446/12/28/df/5a.jpg)
+* [Prometheus](https://cdn.mos.cms.futurecdn.net/CVWKnnneM2Kig4NFVGJjzM.jpg)
+* [Mad Max: Fury Road](https://neiloseman.com/wp-content/uploads/2015/05/cars.jpg)
+* [Home Alone](https://m.media-amazon.com/images/M/MV5BM2YwNDUwYmYtZjVlOS00NTE3LWEyZmQtYTlhYTNhM2MxNGI0XkEyXkFqcGdeQW1yb2Njbw@@._V1_.jpg)
+* [Finding Nemo](https://lumiere-a.akamaihd.net/v1/images/pp_findingnemo_herobannermobile_19752_7810e507.jpeg?region=0,0,640,480)
+* [Black Panther](https://miro.medium.com/v2/resize:fit:1000/1*ExCER7Jp6Cd16-3MpFYkDQ.jpeg)
+* [Superbad](https://media.vanityfair.com/photos/62fa88ecd703349a746d4ea2/1:1/w_1333,h_1333,c_limit/vf-822-superbad-making-of-005.jpg)
 
 
 ### Movie Descriptions
