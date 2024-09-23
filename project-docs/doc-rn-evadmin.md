@@ -1,4 +1,13 @@
-# Electric Vehicle Charger Admin Centre 🔋
+# Electric Vehicle Admin (React Native) 🔋
+
+* Built in: Vanilla JavaScript, JSX
+* Components: Function components with hooks
+* Data storage: Firebase Firestore
+* Frameworks: Expo
+* Libraries: Onsen UI, react-native-paper, react-native-toast-message, react-native-dropdown-picker
+* State management: React Native Context API
+
+## Description
 
 This is a project that I am actively developing as a minimum viable product for a Fortune 500 company (internal tool). The purpose of this is to manage customers and employees who own electric vehicles and would like to use the on premises electric vehicle chargers. Users, vehicles and chargers can all be registered and bookings can be made using these entities. 
 
@@ -19,10 +28,3 @@ Feel free to check out some screenshots below!
 <img width="400" alt="Add User" src="https://github.com/user-attachments/assets/d8212ab4-23fb-4614-a136-9cecb0917f05">
 
 <img width="400" alt="Edit Charger" src="https://github.com/user-attachments/assets/3c139d32-dea8-405f-b4bf-878e014e6af8">
-
-### Details
-* Languages: Vanilla JS, JSX
-* Frameworks: React Native Expo
-* Data Storage: Firebase Firestore
-* Other: The React Context API was used to avoid excessive prop drilling in my deep nested component hierarchy
-
