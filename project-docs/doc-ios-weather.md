@@ -1,6 +1,14 @@
-# Weather app (iOS)
+# Weather app (iOS) 🌦️
 
-A simple iOS weather app made in collaboration with https://www.github.com/liviodr , made using Swift, using the Weather API (https://www.weatherapi.com/)
+* Built in: Swift
+* Data: [Weather API]( https://www.weatherapi.com/)
+* Libraries: CoreLocation
+* Concepts demonstrated: Delegation, Networking (URLRequests, DataTasks, JSON Decoding), Property Lists, Protocols, System Symbol Images, Segues
+
+## Description
+
+A simple iOS weather app made in collaboration with https://www.github.com/liviodr , made using Swift, using the [Weather API]( https://www.weatherapi.com/).
+
 The app allows a user to search for a location or use their own location to receive the matching data from the API
 
 The app allows a user to switch between using Celsius and Fahrenheit for both the home screen and their listed locations
