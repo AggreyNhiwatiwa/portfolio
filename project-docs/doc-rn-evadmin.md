@@ -15,7 +15,7 @@ Two versions are being devloped, a cross platform version built with React Nativ
 
 Feel free to check out some screenshots below!
 
-## React Native Version ⚛
+## Screenshots
 
 <img width="400" alt="Users" src="https://github.com/user-attachments/assets/f2398d27-9b56-498f-b5a2-b45b4b96dbab">
 
