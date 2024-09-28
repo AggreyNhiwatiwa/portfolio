@@ -7,6 +7,13 @@
 ## Description
 
 This was part of a group project for a recent UI/UX design course. 
+
+Check out the repos of my talented group members!
+
+* [Kaleb Jubar](https://github.com/kjubar-fs)
+* [Samet Berk Ozdemir](https://github.com/sberkozd)
+* [Livio David Reinoso](https://www.github.com/liviodr)
+
 This app concept is a fictional companion app based on the game Animal Crossing: New Horizons. In this project, the UX design process was followed, which included research, analysis, design, prototyping, and user testing.
 
 The work in Figma consisted of the following:
